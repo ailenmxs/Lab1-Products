@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Products</string>
+    <string name="find_product">Find Product!</string>
+    <string name="type">Product type not selected</string>
+    <string-array name="type_product">
+        <item>solid goods</item>
+        <item>agricultural products</item>
+        <item>liquids</item>
+        <item>chemical products</item>
+    </string-array>
+
+    <string-array name="products">
+        <item>Appliances | Furniture | Electronics</item>
+        <item>Grains | Fruits | Vegetables</item>
+        <item>Water | Gasoline | Oil</item>
+        <item>Acids | Paints | Fertilizers</item>
+    </string-array>
+</resources>
